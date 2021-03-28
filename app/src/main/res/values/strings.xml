@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">satu</string>
+    <string name="isi">Gracia Terrace Guppy adalah nama farm ikan Guppy di DIY, tepatnya di Piyungan, Bantul, DIY. Ya bisa dibilang alamat nya sama seperti rumah saya. Ada
+    banyak jenis ikan guppy yang tersedia, mulai dari Red Ear King Koi, AFR, HB Blue, mulai dari harga 300 ribu per pasang, 20 ribu per pasang, sampai harga 0 pun ada tapi bantu cuci piring dulu hihi.
+        Udah sih sebenernya ini buat promosi juga, ada ig graciaterrace_guppy terus facebook Gracia Terrace Guppy, feel free to follow hihi. Kalo bisa sih ayo mampirrr :D</string>
+    <string name="judul">Gracia Terrace Guppy</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
